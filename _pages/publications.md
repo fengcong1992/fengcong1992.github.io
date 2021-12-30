@@ -15,6 +15,14 @@ Journal Publications
 ------
 <span style="color:red">New!</span> Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
 
+<span style="color:red">New!</span> Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
+
+<span style="color:red">New!</span> Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
+
+<span style="color:red">New!</span> Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
+
+<span style="color:red">New!</span> Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
+
 Conference Publications
 ------
 <span style="color:red">New!</span> Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
