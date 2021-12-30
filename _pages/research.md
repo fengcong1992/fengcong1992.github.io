@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Research"
+permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+Performance-based Energy Resource Feedback, Optimization, and Risk Management (PERFORM) Data Generation
 ======
 * Summer 2015: Research Assistant
   * Github University
