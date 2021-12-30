@@ -1,7 +1,7 @@
 ---
 title: #academicpages is a ready-to-fork GitHub Pages template for academic 
 permalink: /
-excerpt: About me
+excerpt: 
 author_profile: yes
 redirect_from:
 - /about/
@@ -16,5 +16,5 @@ I am a [Director's Postdoctoral Fellow](https://www.nrel.gov/research/staff/cong
 
 News
 ======
-1. Our paper
-1. Out
+* 12/23: Our paper titled “Convolutional Neural Networks for Intra-hour Solar Forecasting Based on Sky Image Sequences” was accepted to Applied Energy.
+*
