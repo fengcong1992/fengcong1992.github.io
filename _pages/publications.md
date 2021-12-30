@@ -9,10 +9,9 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 
 Journal Publications
 ------
-1. **Feng, C.**, Zhang J., Zhang W., and Hodge, B.-M., Convolutional Neural Networks for Intra-hour Solar Forecasting based on Sky Image Sequences, *Applied Energy*. (under review).	
 1. Erdener, B.C., **Feng, C.**, Doubleday, K., Florita, A., and Hodge, B.-M., **A Review of Behind-the-Meter Solar Forecasting**, *Renewable and Sustainable Energy Reviews*. (under review).	
 1.  Li, B., **Feng, C.**, Zhang, R., Spyrou, E., Krishnan, V., Hobbs, B., and Zhang, J., ``Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method", *Applied Energy*. (under review).		
-1. **Feng, C.**, Sun, M., Li, B., and Zhang, J., Current Status and Advances in Machine Learning-based Deterministic and Probabilistic Wind Forecasting: A Taxonomical Review via Text Mining, *Journal of Renewable and Sustainable Energy*. (under review).
+1. **Feng, C.**, Zhang J., Zhang W., and Hodge, B.-M., Convolutional Neural Networks for Intra-hour Solar Forecasting based on Sky Image Sequences, *Applied Energy*. (in press).
 1. **Feng, C.**, Liu, Y., and Zhang, J., A Taxonomical Review on Recent Artificial Intelligence Applications to Solar Photovoltaic System Grid Integration, *International Journal of Electrical Power and Energy Systems*. (in press)
 1. Rahman, J., **Feng, C.**, and Zhang, J., A Learning-Augmented Approach for AC Optimal Power Flow, *International Journal of Electrical Power and Energy Systems*. (in press).
 1. Sun, M., **Feng, C.**, and Zhang, J., Probabilistic Solar Power Forecasting based on Weather Scenario Generation, *Appl. Energy*, Vol. 266, 2020. 
@@ -30,13 +29,26 @@ Journal Publications
 1.	 Cui, M., Zhang, J., **Feng, C.**, Florita, A., Sun, Y., and Hodge, B.-M., Characterizing and Analyzing Ramping Events in Wind Power, Solar Power, Load, and Netload, *Renew. Energy*, Vol. 111, 2017, pp. 227--244.
 1.	**Feng, C.**, Cui, M., Hodge, B.-M., Zhang, J., A Data-Driven Multi-Model Methodology with Deep Feature Selection for Short-Term Wind Forecasting, *Appl. Energy*, Vol. 190, 2017, pp.1245--1257.
 	
+Book Chapters
+------
+1. **Feng, C.**, Sun, M., Dabbaghjamanesh, M., Liu, Y., Zhang, J., Advanced Machine Learning Applications to the Modern Power Systems, Book Title: **New Technologies for Power System Operation and Analysis**, Elsevier, 2021. 
+1. **Feng, C.**, Zhang, J., Wind Power and Ramp Forecasting for Grid Integration, Book Title: **Advanced Wind Turbine Technology**, Springer, 2018, pp. 299-315.
 
 Conference Publications
 ------
-1. <span style="color:red">New!</span> Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
+1. **Feng, C.**, Zhang, W.,  Hodge, B.-M., and Zhang, Y. Occlusion-perturbed Deep Learning for Probabilistic Solar Forecasting via Sky Images, *IEEE Power \& Energy Society General Meeting*, Denver, CO, 2022. (under review)  
+1. Zhang, W., **Feng, C.**, and Hodge, B.-M., **A Regime-Switching Spatio-temporal GARCH Method for Shor-Term Wind Forecast**, *IEEE Power \& Energy Society General Meeting*, Denver, CO, 2022. (under review)  
+1. Li, B., **Feng, C.**, and Zhang, J., Multi-Timescale Simulation of Non-Spinning Reserve in Wholesale Power Markets, *2021 IEEE Green Technologies Conference*, Virtual, April 7-9, 2021. 
+1. Rahman, J., **Feng, C.**, and Zhang, J., Machine Learning-Aided Security Constrained Optimal Power Flow, **IEEE Power \& Energy Society General Meeting**, Montreal, Canada, August 2-6, 2020.  
+1. **Feng, C.**, Sun, M., Zhang, J., Doubleday, K., Hodge, B.-M., and Du, P., A Data-driven Method for Adaptive Reserve Requirements Estimation via Probabilistic Net Load Forecasting, *IEEE Power \& Energy Society General Meeting*, Montreal, Canada, August 2-6, 2020. 1.	Sun, M., Feng, C., and Zhang, J., Factoring Behind-the-Meter Solar into Load Forecasting: Case Studies under Extreme Weather, *The 11th Conference on Innovative Smart Grid Technologies (ISGT 2020)*, Washington D.C., February 17-20, 2020. 
+1. **Feng, C.** and Zhang, J., SolarNet: A Deep Convolutional Neural Network for Solar Forecasting via Sky Images, *The 11th Conference on Innovative Smart Grid Technologies (ISGT 2020)*, Washington D.C., February 17-20, 2020. 
+1. Sun, M., **Feng, C.**,  and Zhang, J., Aggregated Probabilistic Wind Power Forecasting Based on Spatio-Temporal Correlation, *IEEE Power \& Energy Society General Meeting*, Atlanta, GA, August 4-8, 2019. 
+1. **Feng, C.** and Zhang, J., Reinforcement Learning based Dynamic Model Selection for Short-Term Load Forecasting, *The 10th Conference on Innovative Smart Grid Technologies (ISGT 2019)*, Washington D.C., February 18-21, 2019. 
+1. **Feng, C.** and Zhang, J., Short-Term Load Forecasting With Different Aggregation Strategies, *ASME 2018 International Design Engineering Technical Conferences \& Computers and Information in Engineering Conference* , Paper No. DETC2018-86084, Quebec City, Canada, August 26-29, 2018.
+1. **Feng, C.**  and Zhang, J., Hourly-Similarity Based Solar Forecasting Using Multi-Model Machine Learning Blending, *2018 IEEE PES General Meeting*, Portland, OR, August 5-10, 2018.
+1. Sun, M., **Feng, C.**,  Zhang, J., Chartan, E., and Hodge, B.-M., Probabilistic Short-term Wind Forecasting Based on Pinball Loss Optimization, *Probabilistic Methods Applied to Power Systems Conference*, Boise, Idaho, June 24-28, 2018.
+1. **Feng, C.**, Chartan, E., Hodge, B.-M., and Zhang, J., Characterizing time series data diversity for wind forecasting, *4th IEEE/ACM International Conference on Big Data Computing*, Applications and Technologies, Austin, TX, USA, Dec. 05 - 08, 2017. (Best Student Paper Award)
+1. **Feng, C.**, Cui, M., Lee, M., Zhang, J., Hodge, B.-M., Lu, S., and Hamann, H. F., Short-term Global Horizontal Irradiance Forecasting Based on Sky Imaging and Pattern Recognition, *2017 IEEE PES General Meeting*, Chicago, IL, USA, July 16 - 20, 2017. (Best Paper Award)
+1. Cui, M., **Feng, C.**, Wang, Z., Wang, Q., Florita, A., and Zhang, J., Probabilistic Wind Power Ramps Forecasting Based on Massive Scenarios Generation, *2017 IEEE PES General Meeting*, Chicago, IL, USA, July 16 - 20, 2017. 
+1. Cui, M., Wang, Z., **Feng, C.**, Wang, Q., Florita, A., Zhang, J., A Truncated Gaussian Mixture Model for Statistical Analysis of Wind Power Ramping Magnitudes, *2017 IEEE PES General Meeting*, Chicago, IL, USA, July 16 - 20, 2017. 
 
-1. <span style="color:red">New!</span> Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
-
-Reports
-------
-<span style="color:red">New!</span> Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
