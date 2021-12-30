@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "A director's fellow at NREL"
   location         : "Denver, CO, US"
-  employer         : "National Renewable Energy Laboratory"
+  employer         : #"National Renewable Energy Laboratory"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pT_iWwoAAAAJ&hl=en"
   email            :
