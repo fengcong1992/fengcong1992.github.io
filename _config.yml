@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Cong Feng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "A director's fellow at NREL"
+  location         : "Denver, CO, US"
+  employer         : "National Renewable Energy Laboratory"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=pT_iWwoAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Cong_Feng9?ev=hdr_xprf&_sg=JOk9SiQ8KSkvNG1kC9Y2VfCOucLlziTeGx97cEa3Q5P1LJvIFFvmHH11Vd4FdZxRLNJliZWrFYKKI461ot7QHXHD"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/fengcong1992"
   google_plus      :
   keybase          :
   instagram        :
