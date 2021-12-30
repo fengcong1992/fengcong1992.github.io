@@ -1,5 +1,5 @@
 ---
-title: #academicpages is a ready-to-fork GitHub Pages template for academic 
+title: Home 
 permalink: /
 excerpt: 
 author_profile: yes
