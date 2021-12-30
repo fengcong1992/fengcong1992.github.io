@@ -7,7 +7,7 @@ author_profile: true
 
 A complete list of publications, see my [Google Scholar Profile](https://scholar.google.com/citations?user=pT_iWwoAAAAJ&hl=en). 
 
-Journal Publications
+### Journal Publications
 ------
 1. Erdener, B.C., **Feng, C.**, Doubleday, K., Florita, A., and Hodge, B.-M., A Review of Behind-the-Meter Solar Forecasting, *Renewable and Sustainable Energy Reviews*. (under review).	
 1.  Li, B., **Feng, C.**, Zhang, R., Spyrou, E., Krishnan, V., Hobbs, B., and Zhang, J., ``Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method", *Applied Energy*. (under review).		
