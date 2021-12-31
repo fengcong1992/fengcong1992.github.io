@@ -19,5 +19,5 @@ News
 * 10/21: We kicked off a 3-year [Laboratory Directed Research & Development](https://www.energy.gov/cfo/listings/laboratory-directed-research-and-development-annual-reports) (LDRD) project, titled "Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation".
 * 02/21: I was awarded the [Outstanding Reviewer of IEEE Transactions on Sustainable Energy](https://www.ieee-pes.org/images/files/SE_Outstanding_reviewers_2020.pdf).
 
-[More News]()
+[More News](https://event.asme.org/IDETC-CIE/Program)
 ------
