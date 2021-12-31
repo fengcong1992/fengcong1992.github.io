@@ -311,6 +311,3 @@ compress_html:
   ignore:
     envs: development
     
-    
-gems:
-  - jekyll-font-awesome-sass
