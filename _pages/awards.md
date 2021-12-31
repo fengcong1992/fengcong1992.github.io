@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /award/
+title: "Selected Award"
 author_profile: true
 redirect_from: 
   - /md/
