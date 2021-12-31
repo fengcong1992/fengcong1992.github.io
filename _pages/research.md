@@ -16,8 +16,10 @@ Research Sponsors
 
 
 Current Research Projects
-======
+------
 **Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation**
 
 **Performance-based Energy Resource Feedback, Optimization, and Risk Management (PERFORM) Data Generation**
 
+Finished Research Projects
+------
