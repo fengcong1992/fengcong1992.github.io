@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+Research Interests
+* Power & Energy Systems: renewable energy integration, renewable energy forecasting, load forecasting, infrasctructure discovery
+* Artificial intelligence: machine learning, deep learning, image processing, reinforcement learning
+
+Research Sponsors
+
 
 Current Research Projects
 ======
