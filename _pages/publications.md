@@ -31,8 +31,8 @@ Journal Publications
 	
 Book Chapters
 ------
-1. **Feng, C.**, Sun, M., Dabbaghjamanesh, M., Liu, Y., Zhang, J., Advanced Machine Learning Applications to the Modern Power Systems, Book Title: **New Technologies for Power System Operation and Analysis**, Elsevier, 2021. 
-1. **Feng, C.**, Zhang, J., Wind Power and Ramp Forecasting for Grid Integration, Book Title: **Advanced Wind Turbine Technology**, Springer, 2018, pp. 299-315.
+1. **Feng, C.**, Sun, M., Dabbaghjamanesh, M., Liu, Y., Zhang, J., Advanced Machine Learning Applications to the Modern Power Systems, Book Title: *New Technologies for Power System Operation and Analysis*, Elsevier, 2021. 
+1. **Feng, C.**, Zhang, J., Wind Power and Ramp Forecasting for Grid Integration, Book Title: *Advanced Wind Turbine Technology*, Springer, 2018, pp. 299-315.
 
 Conference Publications
 ------
