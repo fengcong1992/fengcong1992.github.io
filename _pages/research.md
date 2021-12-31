@@ -11,6 +11,7 @@ Research Interests
 -------
 * **Power & Energy Systems:** renewable energy integration, renewable energy forecasting, renewable resource assessment, load forecasting, infrasctructure discovery, system condition clustering, ancillary service estimation, 
 * **Artificial intelligence:** machine learning, deep learning, image processing, reinforcement learning
+* test
 
 Research Sponsors
 ------
