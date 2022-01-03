@@ -15,7 +15,7 @@ Research Interests
 
 Research Sponsors
 ------
-![ImageHere](/images/Sponsors.png)
+<img src="/images/Sponsors.png" alt="drawing" width="500"/>
 
 Current Research Projects
 ------
