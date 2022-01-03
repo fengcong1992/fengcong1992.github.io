@@ -7,11 +7,18 @@ redirect_from:
   - /markdown.html
 ---
 
-
+2021
+======
 * Outstanding Reviewer, IEEE Transactions on Sustainable Energy 
 * Director’s Fellowship, NREL
+2020
+======
 * PhD Research Small Grant (×2), UTD
+2018
+======
 * Louis Beecherl, Jr. Graduate Fellowship, UTD
+2017
+======
 * SAS-IIF Research Award, International Institution of Forecasters
 * Best Student Paper Award, 4th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT)
 * NSF Travel Award, 4th IEEE/ACM International Conference on BDCAT
