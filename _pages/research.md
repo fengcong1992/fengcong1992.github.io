@@ -29,12 +29,18 @@ Current Research Projects
 **Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation**
 <div class="warning">
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="/images/site-logo.png" style="zoom:70%;  float:left; padding:0.7em"/>
+<img src="/images/SatelliteImage.png" style="zoom:70%;  float:left; padding:0.7em"/>
 In this research, we propose a co-occurrence semantic segmentation theory based on cognitive scene understanding, therefore, solving challenging computer vision issues, including label imbalance and boundary ambiguity. The co-occurrence semantic segmentation theory is based on the conjecture that some relevant elements in images tend to occur and be located in a predictable manner, which is a conditional/marginal probability problem. The proposed co-occurrence semantic segmentation will be verified by BTM-PV array detection through satellite aerial image processing.
 </p>
 </div>
 
 **Performance-based Energy Resource Feedback, Optimization, and Risk Management (PERFORM) Data Generation**
+<div class="warning">
+<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
+<img src="/images/PEROFRM.png" style="zoom:70%;  float:left; padding:0.7em"/>
+This project aims at generating one year of time-coincident load, wind, and solar actuals and probabilistic forecasts for regions similar to ERCOT, NYISO, SPP, and MISO using numerical weather prediction and machine learning.
+</p>
+</div>
 
 
 Finished Research Projects
