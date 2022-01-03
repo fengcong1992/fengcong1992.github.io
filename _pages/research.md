@@ -15,10 +15,17 @@ Research Interests
 
 Research Sponsors
 ------
-<img src="/images/Sponsors.png" alt="drawing" width="500"/>
+<img src="/images/Sponsors.png" alt="drawing" width="800"/>
 
 Current Research Projects
 ------
+<div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
+<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
+**Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation**
+</p>
+</div>
+
+
 **Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation**
 
 In this research, we propose a co-occurrence semantic segmentation theory based on cognitive scene understanding, therefore, solving challenging computer vision issues, including label imbalance and boundary ambiguity. The co-occurrence semantic segmentation theory is based on the conjecture that some relevant elements in images tend to occur and be located in a predictable manner, which is a conditional/marginal probability problem. The proposed co-occurrence semantic segmentation will be verified by BTM-PV array detection through satellite aerial image processing.
