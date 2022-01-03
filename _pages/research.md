@@ -20,7 +20,7 @@ Current Research Projects
 ------
 **Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation**
 
-![ImageHere](https://github.com/fengcong1992/fengcong1992.github.io/images/site-logo.png)
+![ImageHere](/images/site-logo.png)
 
 **Performance-based Energy Resource Feedback, Optimization, and Risk Management (PERFORM) Data Generation**
 
