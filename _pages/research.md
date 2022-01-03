@@ -27,6 +27,7 @@ In this research, we propose a co-occurrence semantic segmentation theory based 
 
 
 **Performance-based Energy Resource Feedback, Optimization, and Risk Management (PERFORM) Data Generation**
+<img src="/images/site-logo.png" alt="drawing" width="200"/>
 
 Finished Research Projects
 ------
