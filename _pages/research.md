@@ -15,6 +15,7 @@ Research Interests
 
 Research Sponsors
 ------
+![ImageHere](/images/Sponsors.png)
 
 Current Research Projects
 ------
