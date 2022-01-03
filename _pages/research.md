@@ -15,17 +15,10 @@ Research Interests
 
 Research Sponsors
 ------
-<img src="/images/Sponsors.png" alt="drawing" width="800"/>
+<img src="/images/Sponsors.png" alt="drawing" width="1000"/>
 
 Current Research Projects
 ------
-<div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
-<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-**Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation**
-</p>
-</div>
-
-
 **Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation**
 <div class="warning">
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
