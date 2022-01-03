@@ -31,7 +31,8 @@ In this research, we propose a co-occurrence semantic segmentation theory based 
 <div class="warning">
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
 <img src="/images/PERFORM.png" style="zoom:50%;  float:left; padding:0.7em"/>
-This project aims at generating one year of time-coincident load, wind, and solar actuals and probabilistic forecasts for regions similar to ERCOT, NYISO, SPP, and MISO using numerical weather prediction and machine learning.
+This project aims at generating open-source datasets consisting of one year of time-coincident load, wind, and solar actuals and probabilistic forecasts for regions similar to ERCOT, NYISO, SPP, and MISO. These datasets serve as an uncertainty quantification basis for the Performance-Based Energy Resource Feedback, Optimization, and Risk Management (PERFORM) program. The project utilizes several resource assessment, resource modeling, and machine/deep learning techniques/datasets, including the the National Solar Radiation Database (NSRDB), the Weather Research and Forecasting Model, the European Centre for Medium-Range Weather Forecasts (ECMWF), the Renewable Energy Potential (reV) Model, the Bayesian Model Averaging, and the Machine Learning-based Multi-Model (M3). 
+
 </p>
 </div>
 
