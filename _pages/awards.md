@@ -29,7 +29,8 @@ redirect_from:
 * Travel Award (×2), IEEE Power & Energy Society General Meeting
 * Graduate Competitive Scholarship (×2), UTD
 
-======
+Before 2015
+------
 * Excellent Student Award, WHU
 * Outstanding Student Cadre, WHU
 * Academic Excellence Scholarship, WHU
