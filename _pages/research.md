@@ -15,7 +15,7 @@ Research Interests
 
 Research Sponsors
 ------
-<img src="/images/Sponsors.png" alt="drawing" width="1000"/>
+<img src="/images/Sponsors.png" alt="drawing" width="900"/>
 
 Current Research Projects
 ------
@@ -31,8 +31,7 @@ In this research, we propose a co-occurrence semantic segmentation theory based 
 <div class="warning">
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
 <img src="/images/PERFORM.png" style="zoom:50%;  float:left; padding:0.7em"/>
-This project aims at generating open-source datasets consisting of one year of time-coincident load, wind, and solar actuals and probabilistic forecasts for regions similar to ERCOT, NYISO, SPP, and MISO. These datasets serve as an uncertainty quantification basis for the Performance-Based Energy Resource Feedback, Optimization, and Risk Management (PERFORM) program. The project utilizes several resource assessment, resource modeling, and machine/deep learning techniques/datasets, including the the National Solar Radiation Database (NSRDB), the Weather Research and Forecasting Model, the European Centre for Medium-Range Weather Forecasts (ECMWF), the Renewable Energy Potential (reV) Model, the Bayesian Model Averaging, and the Machine Learning-based Multi-Model (M3). 
-
+This project aims at generating open-source datasets consisting of one year of time-coincident load, wind, and solar actuals and probabilistic forecasts for regions similar to ERCOT, NYISO, SPP, and MISO. These datasets serve as an uncertainty quantification basis for the ARPA-E Performance-Based Energy Resource Feedback, Optimization, and Risk Management (PERFORM) program. The project utilizes several resource assessment, resource modeling, and machine/deep learning techniques/datasets, including the the National Solar Radiation Database (NSRDB), the Weather Research and Forecasting Model, the European Centre for Medium-Range Weather Forecasts (ECMWF), the Renewable Energy Potential (reV) Model, the Bayesian Model Averaging, and the Machine Learning-based Multi-Model (M3). 
 </p>
 </div>
 
@@ -40,8 +39,14 @@ This project aims at generating open-source datasets consisting of one year of t
 Finished Research Projects
 ------
 **Solar Uncertainty Management and Mitigation for Exceptional Reliability in Grid Operations**
+<div class="warning">
+<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
+<img src="/images/PERFORM.png" style="zoom:50%;  float:left; padding:0.7em"/>
+This project will bring probabilistic solar forecasts into ERCOT’s real-time operation environment through automated reserve and dispatch tools that increase economic efficiency and improve system reliability. The adaptive reserves aim to reduce overall reserve levels by 25% while maintaining or improving system reliability. The risk- parity dispatch will automate the use of probabilistic forecast information in a 5-minute dispatch window. The situational awareness tool will present forecast uncertainty information that is relevant, timely, and allows for better decision making.
+</p>
+</div>
 
-**Hierarchy- based Disaggregate Forecasting Using Deep Machine Learning in Power System Time Series**
+**Hierarchy-based Disaggregate Forecasting Using Deep Machine Learning in Power System Time Series**
 
 **WindView: An Open Platform for Wind Energy Forecast Visualization**
 
