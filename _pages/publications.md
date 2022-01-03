@@ -9,7 +9,6 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 
 Journal Publications
 ------
-1. test
 1. Erdener, B.C., **Feng, C.**, Doubleday, K., Florita, A., and Hodge, B.-M., A Review of Behind-the-Meter Solar Forecasting, *Renewable and Sustainable Energy Reviews*. (under review).	
 1.  Li, B., **Feng, C.**, Zhang, R., Spyrou, E., Krishnan, V., Hobbs, B., and Zhang, J., ``Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method", *Applied Energy*. (under review).		
 1. **Feng, C.**, Zhang J., Zhang W., and Hodge, B.-M., Convolutional Neural Networks for Intra-hour Solar Forecasting based on Sky Image Sequences, *Applied Energy*. (in press).
