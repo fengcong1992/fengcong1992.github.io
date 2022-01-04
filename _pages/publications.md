@@ -2,10 +2,12 @@
 layout: archive
 title: "Peer-Reviewed Publications"
 permalink: /publications/
+last_updated: Month day, year
 author_profile: true
 ---
 
 A complete list of publications, see my [Google Scholar Profile](https://scholar.google.com/citations?user=pT_iWwoAAAAJ&hl=en). 
+
 
 Journal Publications
 ------
@@ -14,7 +16,7 @@ Journal Publications
 1. **Feng, C.**, Zhang J., Zhang W., and Hodge, B.-M., Convolutional Neural Networks for Intra-hour Solar Forecasting based on Sky Image Sequences, *Applied Energy*. (in press).
 1. **Feng, C.**, Liu, Y., and Zhang, J., A Taxonomical Review on Recent Artificial Intelligence Applications to Solar Photovoltaic System Grid Integration, *International Journal of Electrical Power and Energy Systems*. (in press)
 1. Rahman, J., **Feng, C.**, and Zhang, J., A Learning-Augmented Approach for AC Optimal Power Flow, *International Journal of Electrical Power and Energy Systems*. (in press).
-1. Sun, M., **Feng, C.**, and Zhang, J., Probabilistic Solar Power Forecasting based on Weather Scenario Generation, *Appl. Energy*, Vol. 266, 2020. [[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0306261920303354), [PDF]("https://github.com/fengcong1992/fengcong1992.github.io/blob/master/files/publication/Feng_2020_AppliedEnergy.pdf"), [get the PDF]({{ site.url }}/files/publication/Feng_2017_AppliedEnergy.pdf)]
+1. Sun, M., **Feng, C.**, and Zhang, J., Probabilistic Solar Power Forecasting based on Weather Scenario Generation, *Appl. Energy*, Vol. 266, 2020. [[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0306261920303354), [PDF]("https://github.com/fengcong1992/fengcong1992.github.io/blob/master/files/publication/Feng_2020_AppliedEnergy.pdf"), <span class="glyphicon glyphicon-download"></span>, <i class="fa fa-camera-retro"></i>]
 1. **Feng, C.**, and Zhang, J., SolarNet: A Sky Image-based Deep Convolutional Neural Network for Intra-hour Solar Forecasting, *Solar Energy*, Vol. 204, 2020, pp.71--78. 
 1. **Feng, C.**, Mehmani, A., and Zhang, J., Deep Learning based Real-time Building Occupancy Detection using AMI Data, *IEEE Trans. Smart Grid*, Vol. 11, 2020, pp. 4490--4501. 
 1. **Feng, C.** and Zhang, J., Assessment of Aggregation Strategies for Machine Learning based Short-Term Load Forecasting, *Electric Power Systems Research*, Vol. 184, 2020. 
