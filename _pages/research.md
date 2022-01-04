@@ -51,7 +51,7 @@ This project will bring probabilistic solar forecasts into ERCOT’s real-time o
 **WindView: An Open Platform for Wind Energy Forecast Visualization**
 <div class="warning">
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="/images/WindView.png" style="zoom:50%;  float:left; padding:0.7em"/>
+<img src="/images/WindView.png" style="zoom:20%;  float:left; padding:0.7em"/>
 This project developed an open-source situational awareness and decision support platform called WindView that provides grid operators with knowledge on the state and performance of wind power on their system. In this project, we developed a wind power forecaster, Machine Learning-based Multi-Model (M3), which provides both deterministic and probabilistic wind power forecasts and has been integrated into WindView.
 </p>
 </div>
