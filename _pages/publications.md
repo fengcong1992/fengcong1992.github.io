@@ -12,9 +12,9 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 Journal Publications
 ------
 1. test cag <a href="{{ https://www.sciencedirect.com/science/article/abs/pii/S0306261920303354 }/index.html}"><i class='fas fa-link'></i></a>
-1. Erdener, B.C., **Feng, C.**, Doubleday, K., Florita, A., and Hodge, B.-M., A Review of Behind-the-Meter Solar Forecasting, *Renewable and Sustainable Energy Reviews*. (under review).	
-1.  Li, B., **Feng, C.**, Zhang, R., Spyrou, E., Krishnan, V., Hobbs, B., and Zhang, J., ``Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method", *Applied Energy*. (under review).[[get the PDF]({{ https://fengcong1992.github.io }}/files/publication/Feng_2017_AppliedEnergy.pdf)]
-1. **Feng, C.**, Zhang J., Zhang W., and Hodge, B.-M., Convolutional Neural Networks for Intra-hour Solar Forecasting based on Sky Image Sequences, *Applied Energy*. (in press).
+1. Erdener, B.C., **Feng, C.**, Doubleday, K., Florita, A., and Hodge, B.-M., A Review of Behind-the-Meter Solar Forecasting, *Renewable and Sustainable Energy Reviews*, 2022. (under review).	
+1.  Li, B., **Feng, C.**, Zhang, R., Spyrou, E., Krishnan, V., Hobbs, B., and Zhang, J., ``Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method", *Applied Energy*, 2022. (under review).[[get the PDF]({{ https://fengcong1992.github.io }}/files/publication/Feng_2017_AppliedEnergy.pdf)]
+1. **Feng, C.**, Zhang J., Zhang W., and Hodge, B.-M., Convolutional Neural Networks for Intra-hour Solar Forecasting based on Sky Image Sequences, *Applied Energy*, 2022. (in press).
 1. **Feng, C.**, Liu, Y., and Zhang, J., A Taxonomical Review on Recent Artificial Intelligence Applications to Solar Photovoltaic System Grid Integration, *International Journal of Electrical Power and Energy Systems*. (in press)
 1. Rahman, J., **Feng, C.**, and Zhang, J., A Learning-Augmented Approach for AC Optimal Power Flow, *International Journal of Electrical Power and Energy Systems*. (in press).
 1. Sun, M., **Feng, C.**, and Zhang, J., Probabilistic Solar Power Forecasting based on Weather Scenario Generation, *Appl. Energy*, Vol. 266, 2020. [[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0306261920303354), [PDF]("https://github.com/fengcong1992/fengcong1992.github.io/blob/master/files/publication/Feng_2020_AppliedEnergy.pdf"), <i class="fas fa-file-pdf"></i>, <i class="fas fa-link"></i>, <a href="{{ https://www.sciencedirect.com/science/article/abs/pii/S0306261920303354 }}"><i class='fas fa-file-link'></i>Home</a>]
