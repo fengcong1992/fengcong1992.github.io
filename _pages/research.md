@@ -71,5 +71,14 @@ The large amount of historical weather, outages, smart meter data collected by O
 </p>
 </div>
 
-
+**test**
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="g/images/WindView.png" alt="">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p> The large amount of historical weather, outages, smart meter data collected by Oncor provides an opportunity for new analysis and forecasting of power outage and load. This project developed an data-driven analytical framework to produce data manipulation processes and algorithms enabling premise-based load forecasting for Oncor, which has been integrated in Oncor's Cloud Computing Server and Enterprise Data Warehouse. </p>
+  </div>
+</div>
 
