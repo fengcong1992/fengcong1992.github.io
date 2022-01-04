@@ -47,6 +47,13 @@ This project will bring probabilistic solar forecasts into ERCOT’s real-time o
 </div>
 
 **Hierarchy-based Disaggregate Forecasting Using Deep Machine Learning in Power System Time Series**
+<div class="warning">
+<p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
+<img src="/images/Disagg.png" style="zoom:20%;  float:left; padding:0.7em"/>
+This project addressed the challenges of collecting decentralized information in power systems, by developing an innovative dynamic big data driven nonintrusive disaggregate forecasting methodology based on deep machine learning. Detailed information is provided by the developed framework at the different levels to help the electricity users, utilities, and policy makers for better power system management. 
+</p>
+</div>
+
 
 **WindView: An Open Platform for Wind Energy Forecast Visualization**
 <div class="warning">
