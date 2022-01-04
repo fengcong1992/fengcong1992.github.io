@@ -11,7 +11,7 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 
 Journal Publications
 ------
-1. test cag <a href="{{ https://www.sciencedirect.com }/science/article/abs/pii/S0306261920303354}"><i class='fas fa-link'></i></a>
+1. test cag <a href="{{ https://www.sciencedirect.com/science/article/abs/pii/S0306261920303354 }}"><i class='fas fa-link'></i></a>
 1. atest changlaj;a
 1. Erdener, B.C., **Feng, C.**, Doubleday, K., Florita, A., and Hodge, B.-M., A Review of Behind-the-Meter Solar Forecasting, *Renewable and Sustainable Energy Reviews*. (under review).	
 1.  Li, B., **Feng, C.**, Zhang, R., Spyrou, E., Krishnan, V., Hobbs, B., and Zhang, J., ``Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method", *Applied Energy*. (under review).[[get the PDF]({{ https://fengcong1992.github.io }}/files/publication/Feng_2017_AppliedEnergy.pdf)]
