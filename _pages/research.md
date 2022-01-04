@@ -49,7 +49,7 @@ This project will bring probabilistic solar forecasts into ERCOT’s real-time o
 **Hierarchy-based Disaggregate Forecasting Using Deep Machine Learning in Power System Time Series**
 <div class="warning">
 <p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
-<img src="/images/Disagg.png" style="zoom:20%;  float:left; padding:0.7em"/>
+<img src="/images/Disagg.png" style="zoom:50%;  float:left; padding:0.7em"/>
 This project addressed the challenges of collecting decentralized information in power systems, by developing an innovative dynamic big data driven nonintrusive disaggregate forecasting methodology based on deep machine learning. Detailed information is provided by the developed framework at the different levels to help the electricity users, utilities, and policy makers for better power system management. 
 </p>
 </div>
@@ -64,7 +64,12 @@ This project developed an open-source situational awareness and decision support
 </div>
 
 **Data-Driven Hierarchical Load Forecasting with Distributed Energy Resources**
+<div class="warning">
+<p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
+<img src="/images/WindView.png" style="zoom:20%;  float:left; padding:0.7em"/>
 The large amount of historical weather, outages, smart meter data collected by Oncor provides an opportunity for new analysis and forecasting of power outage and load. This project developed an data-driven analytical framework to produce data manipulation processes and algorithms enabling premise-based load forecasting for Oncor, which has been integrated in Oncor's Cloud Computing Server and Enterprise Data Warehouse. 
+</p>
+</div>
 
 
 
