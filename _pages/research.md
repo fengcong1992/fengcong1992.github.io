@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-testchange
-
 Research Interests
 -------
 * **Power & Energy Systems:** renewable energy integration, renewable energy forecasting, renewable resource assessment, load forecasting, infrasctructure discovery, system condition clustering, ancillary service estimation, 
