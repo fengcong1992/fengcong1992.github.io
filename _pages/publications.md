@@ -31,7 +31,7 @@ Journal Publications
 1.	 Sun, M., **Feng, C.**, Chartan, E., Hodge, B.-M., and Zhang, J., A Two-Step Short-Term Probabilistic Wind Forecasting Methodology Based on Predictive Distribution Optimization, *Appl. Energy*, Vol. 238, 2019, pp.1497--1505. 
 1.	 Cui, M., **Feng, C.**, Wang, Z., Zhang, J., Statistical Representation of Wind Power Ramps Using a Generalized Gaussian Mixture Model, *IEEE Trans. Sustain. Energy*, Vol. 9(1) 2018, pp.261--272.
 1.	 Cui, M., Zhang, J., **Feng, C.**, Florita, A., Sun, Y., and Hodge, B.-M., Characterizing and Analyzing Ramping Events in Wind Power, Solar Power, Load, and Netload, *Renew. Energy*, Vol. 111, 2017, pp. 227--244.
-1.	**Feng, C.**, Cui, M., Hodge, B.-M., Zhang, J., A Data-Driven Multi-Model Methodology with Deep Feature Selection for Short-Term Wind Forecasting, *Appl. Energy*, Vol. 190, 2017, pp.1245--1257.
+1.	**Feng, C.**, Cui, M., Hodge, B.-M., Zhang, J., A Data-Driven Multi-Model Methodology with Deep Feature Selection for Short-Term Wind Forecasting, *Appl. Energy*, Vol. 190, 2017, pp.1245--1257. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306261920303354"><i class='fas fa-link'></i></a>, [<i class='fas fa-file-pdf'></i>]({{ https://fengcong1992.github.io }}/files/publication/Feng_2017_AppliedEnergy.pdf)]
 	
 Book Chapters
 ------
