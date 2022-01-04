@@ -49,8 +49,15 @@ This project will bring probabilistic solar forecasts into ERCOT’s real-time o
 **Hierarchy-based Disaggregate Forecasting Using Deep Machine Learning in Power System Time Series**
 
 **WindView: An Open Platform for Wind Energy Forecast Visualization**
+<div class="warning">
+<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
+<img src="/images/WindView.png" style="zoom:50%;  float:left; padding:0.7em"/>
+This project developed an open-source situational awareness and decision support platform called WindView that provides grid operators with knowledge on the state and performance of wind power on their system. In this project, we developed a wind power forecaster, Machine Learning-based Multi-Model (M3), which provides both deterministic and probabilistic wind power forecasts and has been integrated into WindView.
+</p>
+</div>
 
 **Data-Driven Hierarchical Load Forecasting with Distributed Energy Resources**
+The large amount of historical weather, outages, smart meter data collected by Oncor provides an opportunity for new analysis and forecasting of power outage and load. This project developed an data-driven analytical framework to produce data manipulation processes and algorithms enabling premise-based load forecasting for Oncor, which has been integrated in Oncor's . 
 
 
 
