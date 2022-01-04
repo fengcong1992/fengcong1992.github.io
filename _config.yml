@@ -84,38 +84,17 @@ author:
   avatar           : "Cong3.png"
   bio              : "Director's Fellow at NREL"
   location         : "Denver, CO, US"
-  employer         : #"National Renewable Energy Laboratory"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  curriculum       : Curriculum Vitae
   googlescholar    : "https://scholar.google.com/citations?user=pT_iWwoAAAAJ&hl=en"
   email            : "cong.feng@nrel"
   researchgate     : "https://www.researchgate.net/profile/Cong_Feng9?ev=hdr_xprf&_sg=JOk9SiQ8KSkvNG1kC9Y2VfCOucLlziTeGx97cEa3Q5P1LJvIFFvmHH11Vd4FdZxRLNJliZWrFYKKI461ot7QHXHD"
   uri              : 'https://www.nrel.gov/research/staff/cong-feng.html'
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "fengcong1992"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "cong-feng-97426bba"
   orcid            : "http://orcid.org/0000-0003-2866-0716"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  #twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  links:
+      - label: "Resume"
+        icon: "far fa-fw fa-file-pdf"
+        url: "/files/publication/Feng_2018_TSE.pdf"
 
 
 # Reading Files
