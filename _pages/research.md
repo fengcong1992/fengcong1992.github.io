@@ -41,7 +41,7 @@ Finished Research Projects
 **Solar Uncertainty Management and Mitigation for Exceptional Reliability in Grid Operations**
 <div class="warning">
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="/images/PERFORM.png" style="zoom:50%;  float:left; padding:0.7em"/>
+<img src="/images/Framework.jpg" style="zoom:50%;  float:left; padding:0.7em"/>
 This project will bring probabilistic solar forecasts into ERCOT’s real-time operation environment through automated reserve and dispatch tools that increase economic efficiency and improve system reliability. The adaptive reserves aim to reduce overall reserve levels by 25% while maintaining or improving system reliability. The risk- parity dispatch will automate the use of probabilistic forecast information in a 5-minute dispatch window. The situational awareness tool will present forecast uncertainty information that is relevant, timely, and allows for better decision making.
 </p>
 </div>
@@ -66,7 +66,7 @@ This project developed an open-source situational awareness and decision support
 **Data-Driven Hierarchical Load Forecasting with Distributed Energy Resources**
 <div class="warning">
 <p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
-<img src="/images/WindView.png" style="zoom:20%;  float:left; padding:0.7em"/>
+<img src="/images/Oncor_Dashboard.png" style="zoom:20%;  float:left; padding:0.7em"/>
 The large amount of historical weather, outages, smart meter data collected by Oncor provides an opportunity for new analysis and forecasting of power outage and load. This project developed an data-driven analytical framework to produce data manipulation processes and algorithms enabling premise-based load forecasting for Oncor, which has been integrated in Oncor's Cloud Computing Server and Enterprise Data Warehouse. 
 </p>
 </div>
