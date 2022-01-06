@@ -3,8 +3,7 @@ title: "MECH 1100: Introduction to Mechanical Engineering I"
 collection: teaching
 type: "TA"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Mechanical Engineering Department, UTD"
-date: 2016 Spring
+venue: "Mechanical Engineering Department, UTD, 2016 Spring"
 location: "City, Country"
 ---
 
