@@ -32,7 +32,9 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.cv %}
-        <i class='fas fa-file-pdf'></i>({{ https://fengcong1992.github.io }}/files/publication/Feng_2020_TSG2.pdf)
+        <li><a [<i class='fas fa-file-pdf'></i>]({{ https://fengcong1992.github.io }}/files/publication/Feng_2020_TSG2.pdf) CV</a></li>
+
+        
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
