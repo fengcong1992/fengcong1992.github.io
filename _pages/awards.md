@@ -23,7 +23,7 @@ redirect_from:
 2017
 ======
 * SAS-IIF Research Award, International Institution of Forecasters [<a href="https://forecasters.org/programs/research-awards/iif-sas/"><i class='fas fa-link'></i></a>]
-* Best Student Paper Award, 4th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT) [<i class='fas fa-file-pdf'></i>]({{ https://fengcong1992.github.io }}/images/BestStudentPaperAward_BDCAT2017.pdf)
+* Best Student Paper Award, 4th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT) [[<i class='fas fa-file-pdf'></i>]({{ https://fengcong1992.github.io }}/images/BestStudentPaperAward_BDCAT2017.pdf)]
 * NSF Travel Award, 4th IEEE/ACM International Conference on BDCAT
 * Best Paper Award, IEEE Power & Energy Society General Meeting
 * Travel Award (×2), IEEE Power & Energy Society General Meeting
