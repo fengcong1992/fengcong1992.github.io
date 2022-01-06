@@ -38,7 +38,7 @@ This project aims at generating open-source datasets consisting of one year of t
 
 Finished Research Projects
 ------
-**Solar Uncertainty Management and Mitigation for Exceptional Reliability in Grid Operations**
+**Solar Uncertainty Management and Mitigation for Exceptional Reliability in Grid Operations (2018-2021, funded by DOE EERE)**
 <div class="warning">
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
 <img src="/images/Framework.jpg" style="zoom:50%;  float:left; padding:0.7em"/>
@@ -46,7 +46,16 @@ This project will bring probabilistic solar forecasts into ERCOT’s real-time o
 </p>
 </div>
 
-**Hierarchy-based Disaggregate Forecasting Using Deep Machine Learning in Power System Time Series**
+**WindView: An Open Platform for Wind Energy Forecast Visualization (2016-2019, funded by DOE EERE)**
+<div class="warning">
+<p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
+<img src="/images/WindView.png" style="zoom:20%;  float:left; padding:0.7em"/>
+This project developed an open-source situational awareness and decision support platform called WindView that provides grid operators with knowledge on the state and performance of wind power on their system. In this project, we developed a wind power forecaster, Machine Learning-based Multi-Model (M3), which provides both deterministic and probabilistic wind power forecasts and has been integrated into WindView.
+</p>
+</div>
+
+
+**Hierarchy-based Disaggregate Forecasting Using Deep Machine Learning in Power System Time Series (2017-2018, funded by International Institute of Forecasters)**
 <div class="warning">
 <p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
 <img src="/images/Disagg.png" style="zoom:70%;  float:left; padding:0.7em"/>
@@ -55,15 +64,7 @@ This project addressed the challenges of collecting decentralized information in
 </div>
 
 
-**WindView: An Open Platform for Wind Energy Forecast Visualization**
-<div class="warning">
-<p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
-<img src="/images/WindView.png" style="zoom:20%;  float:left; padding:0.7em"/>
-This project developed an open-source situational awareness and decision support platform called WindView that provides grid operators with knowledge on the state and performance of wind power on their system. In this project, we developed a wind power forecaster, Machine Learning-based Multi-Model (M3), which provides both deterministic and probabilistic wind power forecasts and has been integrated into WindView.
-</p>
-</div>
-
-**Data-Driven Hierarchical Load Forecasting with Distributed Energy Resources**
+**Data-Driven Hierarchical Load Forecasting with Distributed Energy Resources (2017-2019, funded by Oncor)**
 <div class="warning">
 <p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
 <img src="/images/Oncor_Dashboard.png" style="zoom:20%;  float:left; padding:0.7em"/>
