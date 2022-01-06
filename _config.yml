@@ -93,10 +93,6 @@ author:
   linkedin         : "cong-feng-97426bba"
   orcid            : "http://orcid.org/0000-0003-2866-0716"
   cv               : "cong-feng-97426bba"
-  links:
-      - label: "Resume"
-        icon: "far fa-fw fa-file-pdf"
-        url: "/files/publication/Feng_2018_TSE.pdf"
 
 
 # Reading Files
