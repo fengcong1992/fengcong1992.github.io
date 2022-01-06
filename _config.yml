@@ -92,7 +92,7 @@ author:
   github           : "fengcong1992"
   linkedin         : "cong-feng-97426bba"
   orcid            : "http://orcid.org/0000-0003-2866-0716"
-  cv               : "cong-feng-97426bba"
+  cv               : [<i class='fas fa-file-pdf'></i>]({{ https://fengcong1992.github.io }}/files/publication/Feng_2020_TSG2.pdf)
 
 
 # Reading Files
