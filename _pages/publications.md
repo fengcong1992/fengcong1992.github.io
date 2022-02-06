@@ -11,6 +11,7 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 
 Journal Publications
 ------
+1.  Zhang, Y., **Feng, C.**, and Shaffery, P., ``BTM Visibility Gaps and Roadmap", *IEEE Power and Energy Magazine*, 2022. (under review).
 1.  Li, B., **Feng, C.**, Zhang, R., Spyrou, E., Krishnan, V., Hobbs, B., and Zhang, J., ``Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method", *Applied Energy*, 2022. (under review).
 1. Erdener, B.C., **Feng, C.**, Doubleday, K., Florita, A., and Hodge, B.-M., A Review of Behind-the-Meter Solar Forecasting, *Renewable and Sustainable Energy Reviews*, 2022. (in press).	
 1. **Feng, C.**, Zhang J., Zhang W., and Hodge, B.-M., Convolutional Neural Networks for Intra-hour Solar Forecasting based on Sky Image Sequences, *Applied Energy*, 2022. [<a href="https://www.sciencedirect.com/science/article/pii/S0306261921016639"><i class='fas fa-link'></i></a>, <a href="https://github.com/fengcong1992/SolarNet"><i class="fab fa-github"></i></a>, [<i class='fas fa-file-pdf'></i>]({{ https://fengcong1992.github.io }}/files/publication/Feng_2022_AppliedEnergy.pdf)]
