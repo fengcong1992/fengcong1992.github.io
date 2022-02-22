@@ -15,6 +15,7 @@ My research focuses on renewable energy, smart grid, power system artificial int
 
 News
 ------
+* 02/22: Our paper titled “Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method” was accepted to Applied Energy.
 * 02/22: I was appointed as a Young Editorial Board Member of [Advances in Applied Energy](https://www.sciencedirect.com/journal/Advances-in-Applied-Energy).
 * 02/22: I was selected as a Stream Task Leader of Extreme Wind Power Events in IEA Wind Task 51 (the previous [Task 36](https://www.ieawindforecasting.dk)).
 * 02/22: I gave a brief talk on Wind Ramp Forecating in the IEA Wind Task 51 Kick-off Meeting.
@@ -23,6 +24,3 @@ News
 * 10/21: We kicked off a 3-year [Laboratory Directed Research & Development](https://www.energy.gov/cfo/listings/laboratory-directed-research-and-development-annual-reports) (LDRD) project, titled "Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation".
 * 02/21: I was awarded the [Outstanding Reviewer of IEEE Transactions on Sustainable Energy](https://www.ieee-pes.org/images/files/SE_Outstanding_reviewers_2020.pdf).
 
-
-[More News](https://event.asme.org/IDETC-CIE/Program)
-------
