@@ -39,8 +39,8 @@ Book Chapters
 
 Conference Publications
 ------
-1. **Feng, C.**, Zhang, W.,  Hodge, B.-M., and Zhang, Y. Occlusion-perturbed Deep Learning for Probabilistic Solar Forecasting via Sky Images, *IEEE Power \& Energy Society General Meeting*, Denver, CO, 2022. (under review)  
-1. Zhang, W., **Feng, C.**, and Hodge, B.-M., A Regime-Switching Spatio-temporal GARCH Method for Shor-Term Wind Forecast, *IEEE Power & Energy Society General Meeting*, Denver, CO, 2022. (under review)  
+1. **Feng, C.**, Zhang, W.,  Hodge, B.-M., and Zhang, Y. Occlusion-perturbed Deep Learning for Probabilistic Solar Forecasting via Sky Images, *IEEE Power \& Energy Society General Meeting*, Denver, CO, 2022. (accepted)  
+1. Zhang, W., **Feng, C.**, and Hodge, B.-M., A Regime-Switching Spatio-temporal GARCH Method for Shor-Term Wind Forecast, *IEEE Power & Energy Society General Meeting*, Denver, CO, 2022. (accepted)  
 1. Li, B., **Feng, C.**, and Zhang, J., Multi-Timescale Simulation of Non-Spinning Reserve in Wholesale Power Markets, *2021 IEEE Green Technologies Conference*, Virtual, April 7-9, 2021. [<a href="https://ieeexplore.ieee.org/document/9458538"><i class='fas fa-link'></i></a>] 
 1. Rahman, J., **Feng, C.**, and Zhang, J., Machine Learning-Aided Security Constrained Optimal Power Flow, *IEEE Power & Energy Society General Meeting*, Montreal, Canada, August 2-6, 2020. [<a href="https://ieeexplore.ieee.org/abstract/document/9281941"><i class='fas fa-link'></i></a>]  
 1. **Feng, C.**, Sun, M., Zhang, J., Doubleday, K., Hodge, B.-M., and Du, P., A Data-driven Method for Adaptive Reserve Requirements Estimation via Probabilistic Net Load Forecasting, *IEEE Power & Energy Society General Meeting*, Montreal, Canada, August 2-6, 2020. [<a href="https://ieeexplore.ieee.org/document/9282155"><i class='fas fa-link'></i></a>]
