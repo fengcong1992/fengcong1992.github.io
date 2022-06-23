@@ -15,13 +15,16 @@ My research focuses on renewable energy, smart grid, power system artificial int
 
 News
 ------
-* 02/22: We received a 2-year, $ 1.5 M grant from the DOE Wind Energy Technologies Office. The project titled 'National Intrahour Wind Power Production Database' will be led by NREL and collaborated with PNNL and UT Dallas. I will lead this project with Ryan King as Co-PIs at NREL.
-* 02/22: Our paper titled “Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method” was accepted to Applied Energy.
+* 06/22: We gave a presentation about our "National Intrahour Wind Power Production Database" project at a DOE WETO Systems Integration workshop. 
+* 04/22: I gave a talk at the University of Wisconsin-Madison, titled "Transforming Towards a Sustainable Future: Artificial Intelligence in Next Generation Energy Systems Sensing, Modeling, and Optimization".
+* 02/22: I was awarded the [2021 Outstanding Reviewer of IEEE Transactions on Sustainable Energy](https://www.ieee-pes.org/images/files/TSTE_Outstanding_Reviewers_with_Affiliations_ONLY.pdf). 
+* 02/22: We received a 2-year, $1.5 M grant from the DOE Wind Energy Technologies Office. The project titled "National Intrahour Wind Power Production Database" will be led by NREL and collaborated with PNNL and UT Dallas. I will lead this project with Ryan King as Co-PIs at NREL.
+* 02/22: Our paper titled “[Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method](https://www.sciencedirect.com/science/article/abs/pii/S0306261922002574)” was accepted to Applied Energy.
 * 02/22: I was appointed as a Young Editorial Board Member of [Advances in Applied Energy](https://www.sciencedirect.com/journal/Advances-in-Applied-Energy).
 * 02/22: I was selected as a Stream Task Leader of Extreme Wind Power Events in IEA Wind Task 51 (the previous [Task 36](https://www.ieawindforecasting.dk)).
 * 02/22: I gave a brief talk on Wind Ramp Forecating in the IEA Wind Task 51 Kick-off Meeting.
 * 02/22: Our paper titled “A Review of Behind-the-Meter Solar Forecasting” was accepted to Renewable and Sustainable Energy Reviews.
 * 12/21: Our paper titled “[Convolutional Neural Networks for Intra-hour Solar Forecasting Based on Sky Image Sequences](https://www.sciencedirect.com/science/article/pii/S0306261921016639)” was accepted to Applied Energy.
 * 10/21: We kicked off a 3-year [Laboratory Directed Research & Development](https://www.energy.gov/cfo/listings/laboratory-directed-research-and-development-annual-reports) (LDRD) project, titled "Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation".
-* 02/21: I was awarded the [Outstanding Reviewer of IEEE Transactions on Sustainable Energy](https://www.ieee-pes.org/images/files/SE_Outstanding_reviewers_2020.pdf).
+* 02/21: I was awarded the [2022 Outstanding Reviewer of IEEE Transactions on Sustainable Energy](https://www.ieee-pes.org/images/files/SE_Outstanding_reviewers_2020.pdf).
 
