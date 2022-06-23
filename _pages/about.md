@@ -15,6 +15,7 @@ My research focuses on renewable energy, smart grid, power system artificial int
 
 News
 ------
+* 06/22: I am involved in the organizing committee of the [IEEE PES Grid Edge Technologies Conference and Exposition](https://pes-gridedge.org). 
 * 06/22: We gave a presentation about our "National Intrahour Wind Power Production Database" project at a DOE WETO Systems Integration workshop. 
 * 04/22: I gave a talk at the University of Wisconsin-Madison, titled "Transforming Towards a Sustainable Future: Artificial Intelligence in Next Generation Energy Systems Sensing, Modeling, and Optimization".
 * 02/22: I was awarded the [2021 Outstanding Reviewer of IEEE Transactions on Sustainable Energy](https://www.ieee-pes.org/images/files/TSTE_Outstanding_Reviewers_with_Affiliations_ONLY.pdf). 
