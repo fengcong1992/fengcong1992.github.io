@@ -15,6 +15,7 @@ My research focuses on renewable energy, smart grid, power system artificial int
 
 News
 ------
+* 02/22: We received a 2-year, $ 1.5 M grant from the DOE Wind Energy Technologies Office. The project titled 'National Intrahour Wind Power Production Database' will be led by NREL and collaborated with PNNL and UT Dallas. I will lead this project with Ryan King as Co-PIs at NREL.
 * 02/22: Our paper titled “Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method” was accepted to Applied Energy.
 * 02/22: I was appointed as a Young Editorial Board Member of [Advances in Applied Energy](https://www.sciencedirect.com/journal/Advances-in-Applied-Energy).
 * 02/22: I was selected as a Stream Task Leader of Extreme Wind Power Events in IEA Wind Task 51 (the previous [Task 36](https://www.ieawindforecasting.dk)).
