@@ -17,8 +17,8 @@ News
 ------
 * 06/22: I am involved in the organizing committee of the [IEEE PES Grid Edge Technologies Conference and Exposition](https://pes-gridedge.org). 
 * 06/22: We gave a presentation about our "National Intrahour Wind Power Production Database" project at a DOE WETO Systems Integration workshop. 
-* 03/22: Two papers were accepted by the [2022 IEEE PES General Meeting](https://pes-gm.org).
 * 04/22: I gave a talk at the University of Wisconsin-Madison, titled "Transforming Towards a Sustainable Future: Artificial Intelligence in Next Generation Energy Systems Sensing, Modeling, and Optimization".
+* 03/22: Two papers were accepted by the [2022 IEEE PES General Meeting](https://pes-gm.org).
 * 02/22: I was awarded the [2021 Outstanding Reviewer of IEEE Transactions on Sustainable Energy](https://www.ieee-pes.org/images/files/TSTE_Outstanding_Reviewers_with_Affiliations_ONLY.pdf). 
 * 02/22: We received a 2-year, $1.5 M grant from the DOE Wind Energy Technologies Office. The project titled "National Intrahour Wind Power Production Database" will be led by NREL and collaborated with PNNL and UT Dallas. I will lead this project with Ryan King as Co-PIs at NREL.
 * 02/22: Our paper titled “[Sizing Ramping Reserve Using Probabilistic Solar Forecasts: A Data-Driven Method](https://www.sciencedirect.com/science/article/abs/pii/S0306261922002574)” was accepted to Applied Energy.
