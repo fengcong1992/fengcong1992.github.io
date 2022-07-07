@@ -15,6 +15,7 @@ My research focuses on renewable energy, smart grid, power system artificial int
 
 News
 ------
+* 07/22: I gave a talk at the Center for Wind Energy at the University of Texas at Dallas, titled 'Meteorology-informed Artificial Intelligence for Solar Forecasting'. 
 * 06/22: I am involved in the organizing committee of the [IEEE PES Grid Edge Technologies Conference and Exposition](https://pes-gridedge.org). 
 * 06/22: We gave a presentation about our "National Intrahour Wind Power Production Database" project at a DOE WETO Systems Integration workshop. 
 * 04/22: I gave a talk at the University of Wisconsin-Madison, titled "Transforming Towards a Sustainable Future: Artificial Intelligence in Next Generation Energy Systems Sensing, Modeling, and Optimization".
