@@ -15,6 +15,7 @@ My research focuses on renewable energy, smart grid, power system artificial int
 
 News
 ------
+* 07/22: I gave a talk at the King Abdulla City Atomic and Renewable Energy Workshop hosted by the Joint Institute for Strategic Energy Analysis, titled 'Machine Learning Applications in Power Systems'. 
 * 07/22: We presented two papers in the 2022 Power and Energy Society General Meeting in Denver, CO. 
 * 07/22: I gave a talk at the Center for Wind Energy at the University of Texas at Dallas, titled 'Meteorology-informed Artificial Intelligence for Solar Forecasting'. 
 * 06/22: I am involved in the organizing committee of the [IEEE PES Grid Edge Technologies Conference and Exposition](https://pes-gridedge.org). 
@@ -30,6 +31,6 @@ News
 * 02/22: Our paper titled “A Review of Behind-the-Meter Solar Forecasting” was accepted to Renewable and Sustainable Energy Reviews.
 * 12/21: Our paper titled “[Convolutional Neural Networks for Intra-hour Solar Forecasting Based on Sky Image Sequences](https://www.sciencedirect.com/science/article/pii/S0306261921016639)” was accepted to Applied Energy.
 * 10/21: We kicked off a 3-year [Laboratory Directed Research & Development](https://www.energy.gov/cfo/listings/laboratory-directed-research-and-development-annual-reports) (LDRD) project, titled "Satellite Image Processing for Fundamental Resource Discovery based on Co-occurence Semantic Segmentation".
-* 02/21: I was selected as the [NREL Director's Postdoctoral Fellowship](https://www.nrel.gov/careers/directors-fellowship.html), a prestigious award with a $370,000 grant.
+* 02/21: I was selected as the [NREL Director's Postdoctoral Fellow](https://www.nrel.gov/careers/directors-fellowship.html), a prestigious award with a $370,000 grant.
 * 02/21: I was awarded the [2022 Outstanding Reviewer of IEEE Transactions on Sustainable Energy](https://www.ieee-pes.org/images/files/SE_Outstanding_reviewers_2020.pdf).
 
