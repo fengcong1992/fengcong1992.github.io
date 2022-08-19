@@ -12,7 +12,11 @@ I believe that promoting the development of students’ critical thinking is one
 ------
 **MECH 1100 Introduction to Mechanical Engineering I**
 
-XXXX
+The purpose of this course is to give students a general understanding of the broad range of technical areas and applications specific to the mechanical engineering profession. Course activities include team oriented‐ competitions and lectures by mechanical engineering experts. The learning objectives/outcomes for this course are as follows:
+
+-Introduction of mechanical engineering topics (mechanical design, forces in structures and machines, materials and stresses, motion and power transmission, fluids engineering, thermal and energy systems).
+-Problem-solving and communication skills. 
+-Teamwork and group projects.
 
 **MECH 1208 Introduction to Mechanical Engineering II**
 <div class="warning">
@@ -39,32 +43,3 @@ This project aims at generating open-source datasets consisting of one year of t
 This project will bring probabilistic solar forecasts into ERCOT’s real-time operation environment through automated reserve and dispatch tools that increase economic efficiency and improve system reliability. The adaptive reserves aim to reduce overall reserve levels by 25% while maintaining or improving system reliability. The risk- parity dispatch will automate the use of probabilistic forecast information in a 5-minute dispatch window. The situational awareness tool will present forecast uncertainty information that is relevant, timely, and allows for better decision making.
 </p>
 </div>
-
-**WindView: An Open Platform for Wind Energy Forecast Visualization (2016-2019, funded by DOE EERE)**
-<div class="warning">
-<p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
-<img src="/images/WindView.png" style="zoom:20%;  float:left; padding:0.7em"/>
-This project developed an open-source situational awareness and decision support platform called WindView that provides grid operators with knowledge on the state and performance of wind power on their system. In this project, we developed a wind power forecaster, Machine Learning-based Multi-Model (M3), which provides both deterministic and probabilistic wind power forecasts and has been integrated into WindView.
-</p>
-</div>
-
-
-**Hierarchy-based Disaggregate Forecasting Using Deep Machine Learning in Power System Time Series (2017-2018, funded by International Institute of Forecasters)**
-<div class="warning">
-<p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
-<img src="/images/Disagg.png" style="zoom:70%;  float:left; padding:0.7em"/>
-This project addressed the challenges of collecting decentralized information in power systems, by developing an innovative dynamic big data driven nonintrusive disaggregate forecasting methodology based on deep machine learning. Detailed information is provided by the developed framework at the different levels to help the electricity users, utilities, and policy makers for better power system management. 
-</p>
-</div>
-
-
-**Data-Driven Hierarchical Load Forecasting with Distributed Energy Resources (2017-2019, funded by Oncor)**
-<div class="warning">
-<p style='padding:0.1em; margin-left:0.7em; display: inline-block;'>
-<img src="/images/Oncor_Dashboard.png" style="zoom:65%;  float:left; padding:0.7em"/>
-The large amount of historical weather, outages, smart meter data collected by Oncor provides an opportunity for new analysis and forecasting of power outage and load. This project developed an data-driven analytical framework to produce data manipulation processes and algorithms enabling premise-based load forecasting for Oncor, which has been integrated in Oncor's Cloud Computing Server and Enterprise Data Warehouse. 
-</p>
-</div>
-
-
-
