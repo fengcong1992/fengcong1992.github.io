@@ -9,7 +9,7 @@ redirect_from:
 
 2022
 ======
-* Director's Award, NREL [<a href="https://www.ieee-pes.org/images/files/DA.pdf"><i class='fas fa-link'></i></a>]
+* Director's Award, NREL [[<i class='fas fa-file-pdf'></i>]({{ https://fengcong1992.github.io }}/images/DA.pdf)]
 * Outstanding Reviewer, IEEE Transactions on Sustainable Energy [<a href="https://www.ieee-pes.org/images/files/TSTE_Outstanding_Reviewers_with_Affiliations_ONLY.pdf"><i class='fas fa-link'></i></a>]
 
 2021
