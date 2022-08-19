@@ -7,12 +7,11 @@ redirect_from:
   - /resume
 ---
 
-The University of Texas at Dallas
-
-XXXX
+I believe that promoting the development of students’ critical thinking is one of the most important goals of any educator. Critical thinking is especially necessary for engineering students who need to transfer abstract theories and applicational problem-solving skills to novel situations. The key skills of critical thinking that I hope to help students develop include problem interpretation, analysis, evaluation, inference, explanation, and self-regulation. I find that it is effective to practice these critical thinking skills by linking the structured theoretical knowledge to the engineering applications in an active and cooperative learning environment. It is efficient to achieve this goal by developing course projects based on the course concepts and real-world problems.
 
 ------
 **MECH 1100 Introduction to Mechanical Engineering I**
+
 XXXX
 
 **MECH 1208 Introduction to Mechanical Engineering II**
