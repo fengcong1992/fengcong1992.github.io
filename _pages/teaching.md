@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -8,15 +8,12 @@ redirect_from:
 ---
 
 The University of Texas at Dallas
+
 XXXX
+
 ------
 **MECH 1100 Introduction to Mechanical Engineering I**
-<div class="warning">
-<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="/images/NWPP.png" style="zoom:8%;  float:left; padding:0.7em"/>
-This project aims to develop a publicly available dataset of wind power with uncertainty quantification for the current and future onshore and offshore wind plants across the continental US within the domain of the Wind Toolkit. The objectives include: (1) developing 5 minute, 2 km super-resolved grid cell meteorological and power datasets; (2) developing a database of plant-level power time series; (3) quantifying plant-level power uncertainty and identifying the uncertainty sources and driving factors; (4) assessing physical accuracy of super resolved meteorological data, power data, and uncertainty quantification by comparison with observations (e.g. WFIP2) and historical actuals; (5) integrating the developed datasets into existing WETO datasets such NREL WIND toolkit and DOE Wind Data Dashboard database; and (6) engaging with industry stakeholders for data dissemination and feedback.
-</p>
-</div>
+XXXX
 
 **MECH 1208 Introduction to Mechanical Engineering II**
 <div class="warning">
