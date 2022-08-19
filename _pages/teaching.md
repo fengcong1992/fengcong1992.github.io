@@ -16,11 +16,12 @@ I believe that promoting the development of students’ critical thinking is one
 
 The purpose of this course is to give students a general understanding of the broad range of technical areas and applications specific to the mechanical engineering profession. Course activities include team oriented‐ competitions and lectures by mechanical engineering experts. The learning objectives/outcomes for this course are as follows:
 
--Introduction of mechanical engineering topics (mechanical design, forces in structures and machines, materials and stresses, motion and power transmission, fluids engineering, thermal and energy systems).
+*Introduction of mechanical engineering topics (mechanical design, forces in structures and machines, materials and stresses, motion and power transmission, fluids engineering, thermal and energy systems).
 -Problem-solving and communication skills. 
 -Teamwork and group projects.
 
 **MECH 1208 Introduction to Mechanical Engineering II**
+
 The purpose of this course is to give students a general understanding of the broad range of technical areas and applications specific to the mechanical engineering profession. Course activities include team - oriented competitions, and lectures by mechanical engineering experts. Cource learning outcomes include:
 1. Explain concepts in mechanical design, forces and stresses, engineering materials, motion and power transmission, and thermal and energy systems.
 2. Develop problem-solving and communications skills.
@@ -31,6 +32,7 @@ term effective practice of engineering.
 
 
 **MECH 2310 Statics**
+
 Course material includes discussions on static equilibrium of particles and rigid bodies in three-dimensional space. Analysis related to structures, such as trusses, frames and machines, will be taught. Internal forces, moments in structural members will be studied. Concepts such as geometric center, center of Mass, moments of Inertia will be covered. Time permitting, static equilibrium, based on the principle of virtual work will be discussed. Introduce various types of force systems at rest using the classical Newtonian mechanics that governs physical systems at rest. Specifically, the course will:
 1. Apply knowledge in mathematics, science and engineering to understand and formulate relations describing static equilibrium.
 2. Solve statics problems for systems modeled as particles and rigid bodies.
@@ -41,4 +43,5 @@ Course material includes discussions on static equilibrium of particles and rigi
 
 
 **MECH 4310 System and Control**
+
 Introduction to linear control theory. General structure of control systems. Mathematical models including differential equations, transfer functions, and state space. Transient response and steady-state error. Performance, stability, root-locus method, Bode diagram, and Nyquist plot. Compensation design using PID, phase-lead, and phase-lag controllers.
