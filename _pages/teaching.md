@@ -7,22 +7,21 @@ redirect_from:
   - /resume
 ---
 
-I believe that promoting the development of students’ critical thinking is one of the most important goals of any educator. Critical thinking is especially necessary for engineering students who need to transfer abstract theories and applicational problem-solving skills to novel situations. The key skills of critical thinking that I hope to help students develop include problem interpretation, analysis, evaluation, inference, explanation, and self-regulation. I find that it is effective to practice these critical thinking skills by linking the structured theoretical knowledge to the engineering applications in an active and cooperative learning environment. It is efficient to achieve this goal by developing course projects based on the course concepts and real-world problems.
+I believe that promoting the development of students’ critical thinking is one of the most important goals of any educator. Critical thinking is especially necessary for engineering students who need to transfer abstract theories and applicational problem-solving skills to novel situations. The key skills of critical thinking that I hope to help students develop include problem interpretation, analysis, evaluation, inference, explanation, and self-regulation. I find that it is effective to practice these critical thinking skills by linking the structured theoretical knowledge to the engineering applications in an active and cooperative learning environment. It is efficient to achieve this goal by developing course projects based on the course concepts and real-world problems. 
+
+I am enthusiastic to teach and mentor students. I have actively sought opportunities to teach and mentor students at various levels across the broad engineering filed. I have been an instructor or a teaching assistant (TA) for four courses in Mechanical Engineering at both the introductory level and the advanced level. I have also mentored 8 students at various levels. This experience allowed me to practice my teaching philosophy and have prepared me to be a successful teacher.
 
 ------
 **MECH 1100 Introduction to Mechanical Engineering I**
 
-==Lab instractor/TA, Fall 2016== 
-
 The purpose of this course is to give students a general understanding of the broad range of technical areas and applications specific to the mechanical engineering profession. Course activities include team oriented‐ competitions and lectures by mechanical engineering experts. The learning objectives/outcomes for this course are as follows:
-
-*Introduction of mechanical engineering topics (mechanical design, forces in structures and machines, materials and stresses, motion and power transmission, fluids engineering, thermal and energy systems).<br />
--Problem-solving and communication skills. 
--Teamwork and group projects.
+1. Introduction of mechanical engineering topics (mechanical design, forces in structures and machines, materials and stresses, motion and power transmission, fluids engineering, thermal and energy systems)
+2. Problem-solving and communication skills. 
+3. Teamwork and group projects.
 
 **MECH 1208 Introduction to Mechanical Engineering II**
 
-The purpose of this course is to give students a general understanding of the broad range of technical areas and applications specific to the mechanical engineering profession. Course activities include team - oriented competitions, and lectures by mechanical engineering experts. Cource learning outcomes include:
+The purpose of this course is to give students a general understanding of the broad range of technical areas and applications specific to the mechanical engineering profession. Course activities include team - oriented competitions, and lectures by mechanical engineering experts. Course learning outcomes include:
 1. Explain concepts in mechanical design, forces and stresses, engineering materials, motion and power transmission, and thermal and energy systems.
 2. Develop problem-solving and communications skills.
 3. Function as a team on group projects.
