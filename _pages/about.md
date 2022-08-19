@@ -17,12 +17,14 @@ I am actively participating in synergistic activities. I am serving as editors f
 
 News
 ------
+* 08/22: I received the prestigious Director's Award from NREL for the exceptional contributions and leadership in multiple projects and winning proposals.
+* 08/22: I chaired a session, 'Design and Optimization of Energy Systems', at the ASME IDETC conference. 
 * 07/22: I gave a talk at the King Abdulla City Atomic and Renewable Energy Workshop, titled 'Machine Learning Applications in Power Systems'. 
 * 07/22: We presented two papers at the 2022 Power and Energy Society General Meeting in Denver, CO. 
 * 07/22: I gave a talk at the Center for Wind Energy at the University of Texas at Dallas, titled 'Meteorology-informed Artificial Intelligence for Solar Forecasting'. 
 * 06/22: I am involved in the organizing committee of the [IEEE PES Grid Edge Technologies Conference and Exposition](https://pes-gridedge.org). 
-* 06/22: We gave a presentation about our "National Intrahour Wind Power Production Database" project at a DOE WETO Systems Integration workshop. 
-* 04/22: I gave a talk at the University of Wisconsin-Madison, titled "Transforming Towards a Sustainable Future: Artificial Intelligence in Next Generation Energy Systems Sensing, Modeling, and Optimization".
+* 06/22: We gave a presentation about our ‘National Intrahour Wind Power Production Database’ project at a DOE WETO Systems Integration workshop. 
+* 04/22: I gave a talk at the University of Wisconsin-Madison, titled ‘Transforming Towards a Sustainable Future: Artificial Intelligence in Next Generation Energy Systems Sensing, Modeling, and Optimization’.
 * 03/22: Two papers were accepted by the [2022 IEEE PES General Meeting](https://pes-gm.org).
 * 02/22: I was awarded the [2021 Outstanding Reviewer of IEEE Transactions on Sustainable Energy](https://www.ieee-pes.org/images/files/TSTE_Outstanding_Reviewers_with_Affiliations_ONLY.pdf). 
 * 02/22: We received a 2-year, $1.5 M grant from the DOE Wind Energy Technologies Office. The project titled "National Intrahour Wind Power Production Database" will be led by NREL and collaborated with PNNL and UT Dallas. I will lead this project with Ryan King as Co-PIs at NREL.
