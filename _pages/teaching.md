@@ -23,6 +23,13 @@ The purpose of this course is to give students a general understanding of the br
 
 
 **MECH 2310 Statics**
+Course material includes discussions on static equilibrium of particles and rigid bodies in three-dimensional space. Analysis related to structures, such as trusses, frames and machines, will be taught. Internal forces, moments in structural members will be studied. Concepts such as geometric center, center of Mass, moments of Inertia will be covered. Time permitting, static equilibrium, based on the principle of virtual work will be discussed. Introduce various types of force systems at rest using the classical Newtonian mechanics that governs physical systems at rest. Specifically, the course will:
+1. Apply knowledge in mathematics, science and engineering to understand and formulate relations describing static equilibrium.
+2. Solve statics problems for systems modeled as particles and rigid bodies.
+3. Work in teams to apply knowledge of statics to solve real-world problems.
+4. Apply static equilibrium principles to model mechanisms and various friction effects.
+5. Apply computational tools to solve static equilibrium problems.
+6. Calculate centroids and mass properties of engineering shapes and bodies.
 
 
 
