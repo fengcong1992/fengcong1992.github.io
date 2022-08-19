@@ -11,6 +11,7 @@ I believe that promoting the development of students’ critical thinking is one
 
 ------
 **MECH 1100 Introduction to Mechanical Engineering I**
+
 ==Lab instractor/TA, Fall 2016== 
 
 The purpose of this course is to give students a general understanding of the broad range of technical areas and applications specific to the mechanical engineering profession. Course activities include team oriented‐ competitions and lectures by mechanical engineering experts. The learning objectives/outcomes for this course are as follows:
@@ -20,6 +21,13 @@ The purpose of this course is to give students a general understanding of the br
 -Teamwork and group projects.
 
 **MECH 1208 Introduction to Mechanical Engineering II**
+The purpose of this course is to give students a general understanding of the broad range of technical areas and applications specific to the mechanical engineering profession. Course activities include team - oriented competitions, and lectures by mechanical engineering experts. Cource learning outcomes include:
+1. Explain concepts in mechanical design, forces and stresses, engineering materials, motion and power transmission, and thermal and energy systems.
+2. Develop problem-solving and communications skills.
+3. Function as a team on group projects.
+4. Explain how continued education and knowledge of contemporary issues is important for the long-
+term effective practice of engineering.
+5. Demonstrate understanding of professional ethics.
 
 
 **MECH 2310 Statics**
@@ -32,7 +40,5 @@ Course material includes discussions on static equilibrium of particles and rigi
 6. Calculate centroids and mass properties of engineering shapes and bodies.
 
 
-
-------
 **MECH 4310 System and Control**
-
+Introduction to linear control theory. General structure of control systems. Mathematical models including differential equations, transfer functions, and state space. Transient response and steady-state error. Performance, stability, root-locus method, Bode diagram, and Nyquist plot. Compensation design using PID, phase-lead, and phase-lag controllers.
