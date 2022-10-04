@@ -17,6 +17,7 @@ I am actively participating in synergistic activities. I am serving as editors f
 
 News
 ------
+* 09/22: I hosted Simon Camal from MINES Paries and Valentina Vologni from Capenergies at NREL with Rui Yang.
 * 08/22: I received the prestigious Director's Award from NREL for the exceptional contributions and leadership in multiple projects and winning proposals.
 * 08/22: I chaired a session, 'Design and Optimization of Energy Systems', at the ASME IDETC conference. 
 * 07/22: I gave a talk at the King Abdulla City Atomic and Renewable Energy Workshop, titled 'Machine Learning Applications in Power Systems'. 
