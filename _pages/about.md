@@ -17,6 +17,7 @@ I am actively participating in synergistic activities. I am serving as editors f
 
 News
 ------
+* 10/22: I gave a talk at the 2022 INFORMS Annual Meeting, titled 'Sky Image-informed Deep Learning for Intra-hour Solar Forecasting'.
 * 09/22: I hosted Simon Camal from MINES Paries and Valentina Vologni from Capenergies at NREL with Rui Yang.
 * 08/22: I received the prestigious Director's Award from NREL for the exceptional contributions and leadership in multiple projects and winning proposals.
 * 08/22: I chaired a session, 'Design and Optimization of Energy Systems', at the ASME IDETC conference. 
