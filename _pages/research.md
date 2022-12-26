@@ -35,6 +35,10 @@ In this research, we propose a co-occurrence semantic segmentation theory based 
 </p>
 </div>
 
+
+
+Finished Research Projects
+------
 **Performance-based Energy Resource Feedback, Optimization, and Risk Management (PERFORM) Data Generation**
 <div class="warning">
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
@@ -43,9 +47,6 @@ This project aims at generating open-source datasets consisting of one year of t
 </p>
 </div>
 
-
-Finished Research Projects
-------
 **Solar Uncertainty Management and Mitigation for Exceptional Reliability in Grid Operations (2018-2021, funded by DOE EERE)**
 <div class="warning">
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
